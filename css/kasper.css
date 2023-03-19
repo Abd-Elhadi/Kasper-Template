@@ -5,7 +5,7 @@
 }
 /* end varibales */
 
-/* GLobal rules */
+/* start Lobal rules */
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -19,7 +19,7 @@ html {
 
 body {
     font-family: "Open Sans", sans-serif;
-    background-color: black;
+    /* background-color: black; */
 }
 
 ul {
@@ -31,6 +31,49 @@ ul {
     margin: 0 auto;
     min-height: 97px;
 }
+
+/* end global rules */
+/* start component */
+.main-heading {
+    text-align: center;
+}
+.main-heading h2 {
+    font-weight: normal;
+    font-size: 40px;
+    position: relative;
+    margin-bottom: 70px;
+    text-transform: uppercase;
+}
+.main-heading::before {
+    content: '';
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    height: 2px;
+    background: #333;
+    bottom: -70px;
+    width: 120px;
+}
+.main-heading::after {
+    content: '';
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    border: 2px solid #333;
+    bottom: -78px;
+    background-color: white;
+}
+.main-heading p {
+    width: 550px;
+    margin: 0 auto 100px;
+    max-width: 100%;
+    line-height: 2;
+    color: #777;
+}
+/* end component */
 
 /* small */
 @media (min-width: 768px) {
