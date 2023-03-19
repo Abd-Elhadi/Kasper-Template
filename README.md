@@ -1,8 +1,15 @@
+<<<<<<< HEAD
 
 # Kasper-Template
 
 This is a project for creating a [Kasper Template] using HTML and CSS.
 I created it to improve my coding skills by building realistic projects.
+=======
+Kasper-Template
+
+This is a project for creating a [Kasper Template] using HTML and CSS.
+I created it to practice my HTML and CSS skills by building realistic projects.
+>>>>>>> 396dcd026dd472c60caabba7f54f55928ffcfadd
 
 ## Table of contents
 
@@ -30,6 +37,7 @@ Users should be able to:
 ### Screenshot
 
 #### Landing Screen 
+<<<<<<< HEAD
 ![Landing Screen](images/screenshots/landing.jpg?raw=true")
 
 #### Portfolio Screen 
@@ -51,6 +59,29 @@ Users should be able to:
 ### Links
 - Source Code URL: [here](https://github.com/Abd-Elhadi/Kasper-Template)
 - Live Site URL: [here](https://Abd-Elhadi.github.io/Kasper-Template/)
+=======
+![Landing Screen](design/screenshots/landing.jpg?raw=true")
+
+#### Portfolio Screen 
+![Landing Screen](design/screenshots/portfolio.png?raw=true")
+
+#### About Screen 
+![Landing Screen](design/screenshots/stat.png?raw=true")
+
+#### Skills Screen 
+![Landing Screen](design/screenshots/skills.jpg?raw=true")
+
+#### Pricing Screen 
+![Landing Screen](design/screenshots/pricing.png?raw=true")
+
+#### Contact Screen 
+![Landing Screen](design/screenshots/contact.png?raw=true")
+
+
+### Links
+- Source Code URL: [here](https://github.com/IbrahimAlsabr/Kasper-Template)
+- Live Site URL: [here](https://ibrahimalsabr.github.io/Kasper-Template/)
+>>>>>>> 396dcd026dd472c60caabba7f54f55928ffcfadd
 
 ## My process
 
@@ -85,9 +116,15 @@ The designs were created to the following widths:
 ## Author
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abd-Elhadi)
 
+<<<<<<< HEAD
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-alsabr-188939231/)
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/home?lang=fr)
+=======
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelhadi-omar-b2a630173/)
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abdelhadiomarr)
+>>>>>>> 396dcd026dd472c60caabba7f54f55928ffcfadd
 
 
 ## Acknowledgments
