@@ -55,22 +55,22 @@ Users should be able to:
 - Source Code URL: [here](https://github.com/Abd-Elhadi/Kasper-Template)
 - Live Site URL: [here](https://Abd-Elhadi.github.io/Kasper-Template/)
 
-![Landing Screen](design/screenshots/landing.jpg?raw=true")
+![Landing Screen](images/screenshots/landing.jpg?raw=true")
 
 #### Portfolio Screen 
-![Landing Screen](design/screenshots/portfolio.png?raw=true")
+![Landing Screen](images/screenshots/portfolio.png?raw=true")
 
 #### About Screen 
-![Landing Screen](design/screenshots/stat.png?raw=true")
+![Landing Screen](images/screenshots/stat.png?raw=true")
 
 #### Skills Screen 
-![Landing Screen](design/screenshots/skills.jpg?raw=true")
+![Landing Screen](images/screenshots/skills.jpg?raw=true")
 
 #### Pricing Screen 
-![Landing Screen](design/screenshots/pricing.png?raw=true")
+![Landing Screen](images/screenshots/pricing.png?raw=true")
 
 #### Contact Screen 
-![Landing Screen](design/screenshots/contact.png?raw=true")
+![Landing Screen](images/screenshots/contact.png?raw=true")
 
 
 ### Links
