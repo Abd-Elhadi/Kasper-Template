@@ -32,7 +32,7 @@ Users should be able to:
 ### Screenshot
 
 #### Landing Screen 
-<<<<<<< HEAD
+
 ![Landing Screen](images/screenshots/landing.jpg?raw=true")
 
 #### Portfolio Screen 
@@ -52,31 +52,8 @@ Users should be able to:
 
 
 ### Links
-- Source Code URL: [here](https://github.com/Abd-Elhadi/Kasper-Template)
+- Source Code URL: [here](https://github.com/Abd-Elhadi/Kasper-Template/tree/master)
 - Live Site URL: [here](https://Abd-Elhadi.github.io/Kasper-Template/)
-
-![Landing Screen](images/screenshots/landing.jpg?raw=true")
-
-#### Portfolio Screen 
-![Landing Screen](images/screenshots/portfolio.png?raw=true")
-
-#### About Screen 
-![Landing Screen](images/screenshots/stat.png?raw=true")
-
-#### Skills Screen 
-![Landing Screen](images/screenshots/skills.jpg?raw=true")
-
-#### Pricing Screen 
-![Landing Screen](images/screenshots/pricing.png?raw=true")
-
-#### Contact Screen 
-![Landing Screen](images/screenshots/contact.png?raw=true")
-
-
-### Links
-- Source Code URL: [here](https://github.com/IbrahimAlsabr/Kasper-Template)
-- Live Site URL: [here](https://ibrahimalsabr.github.io/Kasper-Template/)
-
 
 ## My process
 
@@ -110,10 +87,6 @@ The designs were created to the following widths:
 
 ## Author
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abd-Elhadi)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-alsabr-188939231/)
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/home?lang=fr)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelhadi-omar-b2a630173/)
 
