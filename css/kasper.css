@@ -669,18 +669,18 @@ header nav .form i {
     align-items: center;
     margin-bottom: 30px;
 }
-.our-skills .testimonials content img {
+.our-skills .testimonials .content img {
     width: 100px;
     border-radius: 50%;
     margin-right: 50px;
 }
 
 @media(max-width: 767px) {
-    .our-skills .testimonials content {
+    .our-skills .testimonials .content {
         flex-direction: column;
         text-align: center;
     }
-    .our-skills .testimonials content img {
+    .our-skills .testimonials .content img {
         margin: 0 auto 20px;
     }
 }
@@ -756,3 +756,52 @@ header nav .form i {
     top: -15px;
 }
 /* end skills */
+/* start quote */
+.quote {
+    padding: var(--section-padding) 0;
+    background-image: url('../images/quote.jpg');
+    background-size: cover;
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.quote::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(15 116 143 / 75%);
+}
+
+.quote .container {
+    position: relative;
+}
+
+.quote q {
+    font-size: 30px;
+    margin-bottom: 20px;
+    display: block;
+}
+
+.quote q::before {
+    font-family: 'Font Awesome 5 Free';
+    content: '\22';
+    font-weight: 600;
+    margin-right: 2px;
+    position: relative;
+    font-size: 30px;
+    top: 1px;
+}
+.quote q::after {
+    font-family: 'Font Awesome 5 Free';
+    content: '\22';
+    font-weight: 600;
+    margin-left: 2px;
+    position: relative;
+    font-size: 30px;
+    top: 1px;
+}
+/* end quote */
