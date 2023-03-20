@@ -38,6 +38,7 @@ ul {
 .main-heading {
     text-align: center;
 }
+
 .main-heading h2 {
     font-weight: normal;
     font-size: 40px;
@@ -45,17 +46,19 @@ ul {
     margin-bottom: 70px;
     text-transform: uppercase;
 }
-.main-heading::before {
+
+.main-heading h2::before {
     content: '';
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
     height: 2px;
     background: #333;
-    bottom: -70px;
+    bottom: -30px;
     width: 120px;
 }
-.main-heading::after {
+
+.main-heading h2::after {
     content: '';
     position: absolute;
     left: 50%;
@@ -64,7 +67,7 @@ ul {
     height: 14px;
     border-radius: 50%;
     border: 2px solid #333;
-    bottom: -78px;
+    bottom: -38px;
     background-color: white;
 }
 .main-heading p {
@@ -542,3 +545,24 @@ header nav .form i {
     text-transform: uppercase;
 }
 /* end video */
+/* start about */
+.about {
+    padding-top: var(--section-padding);
+    overflow: hidden;
+    text-align: center;
+}
+
+.about img {
+    position: relative;
+    bottom: -120px;
+    margin-top: -120px;
+    max-width: 100%;
+}
+
+@media (max-width: 767px) {
+    .about img {
+        bottom: -60px;
+        margin-top: -60px;
+    }
+}
+/* end about */
