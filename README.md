@@ -53,7 +53,7 @@ Users should be able to:
 
 
 ### Links
-- Source Code URL: [here](https://github.com/Abd-Elhadi/Kasper-Template/tree/master)
+- Source Code URL: [here](https://github.com/Abd-Elhadi/Kasper-Template)
 - Live Site URL: [here](https://Abd-Elhadi.github.io/Kasper-Template/)
 
 ## My process
