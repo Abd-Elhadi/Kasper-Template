@@ -1111,4 +1111,12 @@ header nav .form i {
     font-weight: bold;
     color: var(--main-color);
 }
+
+.footer .container h4 {
+    margin-top: 15px;
+}
+
+.footer .container h4 span {
+    color: var(--main-color);
+}
 /* end footer */
